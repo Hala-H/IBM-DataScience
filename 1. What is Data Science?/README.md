@@ -10,4 +10,5 @@
   <h2> Week 3 - Data Science in Business </h2>
   <p> In this module, you will learn about the approaches companies can take to start working with data science. You will learn about some of the qualities that differentiate data scientists from other professionals. You will also learn about analytics, story-telling, and the pivotal role data scientists play in creating an effective final deliverable. Finally, you will apply what you learned about data science by answering open-ended questions.</p>
   
-  <h5> The final assignment was just answering theoriticial questions. </h5>
+  <h5> The final assignment was just answering theoriticial questions. 
+Link: https://www.coursera.org/learn/what-is-datascience/peer/dgsjq/final-assignment/review/Sa-k5oacEeuphhI3vcdHow </h5>
