@@ -1,4 +1,5 @@
 <h1> Lesson Summary </h1>
+
 - Best dashboards answer critical business questions. It will help business make informed decisions, thereby improving performance. 
 
 - Dashboards can produce real-time visuals. 
